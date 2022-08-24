@@ -3,7 +3,7 @@ My collection of client-side fabric mods, collected in this repository for easy 
 
 ## Installing
 1. Run Minecraft with the version you want to install fabric for at least once. Minecraft installs a new version when that version is launched for the first time
-2. Download and run the [fabric loader](https://fabricmc.net/use/installer/)
+2. Download and run the [Quilt loader](https://quiltmc.org/install/client)
 3. Open the .minecraft folder (see below for more instructions).
 5. Open the `mods` folder. Create it if it doesn't exist. Launching the fabric version of minecraft will automatically create the mods folder, but this is not necessary.
 6. Open the terminal (see below for more instructions).
@@ -50,8 +50,6 @@ cd ~/Library/Application Support/minecraft/mods
 [Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading)  
 [Enhanced Block Entities](https://modrinth.com/mod/ebe)  
 [Entity Culling](https://modrinth.com/mod/entityculling)  
-[Extra Sounds](https://modrinth.com/mod/extrasounds)  
-[Fabric API](https://modrinth.com/mod/fabric-api)  
 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)  
 [Falling Leaves](https://modrinth.com/mod/fallingleaves)  
 [Ferrite Core](https://modrinth.com/mod/ferrite-core)  
@@ -65,6 +63,7 @@ cd ~/Library/Application Support/minecraft/mods
 [Mod Menu](https://modrinth.com/mod/modmenu)  
 [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie)  
 [OK Zoomer](https://modrinth.com/mod/ok-zoomer)  
+[Quilt Standard Libraies](https://modrinth.com/mod/qsl)
 [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)  
 [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)  
 [Sodium](https://modrinth.com/mod/sodium)  
