@@ -3,13 +3,13 @@ My collection of client-side fabric mods, collected in this repository for easy 
 
 ## Installing
 1. Run Minecraft with the version you want to install fabric for at least once. Minecraft installs a new version when that version is launched for the first time
-2. Download and run the [fabric loader](https://fabricmc.net/use/installer/)
+2. Download and run the [Quilt loader](https://quiltmc.org/install/client)
 3. Open the .minecraft folder (see below for more instructions).
 5. Open the `mods` folder. Create it if it doesn't exist. Launching the fabric version of minecraft will automatically create the mods folder, but this is not necessary.
 6. Open the terminal (see below for more instructions).
 7. Paste the following command, replacing <VERSION> with the version of Minecraft you're playing (i.e., `1.19.2`):
 ```bash
-git clone --branch <VERSION> https://github.com/nolanbarry/minecraft-fabric-mods.git .
+git clone --branch <VERSION> https://github.com/nolanbarry/minecraft-client-mods .
 ```
 > If the `git` command doesn't exist, install `git` [here](https://git-scm.com/download/win).
 
