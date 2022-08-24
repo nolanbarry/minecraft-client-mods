@@ -9,7 +9,7 @@ My collection of client-side fabric mods, collected in this repository for easy 
 6. Open the terminal (see below for more instructions).
 7. Paste the following command, replacing <VERSION> with the version of Minecraft you're playing (i.e., `1.19.2`):
 ```bash
-git clone --branch <VERSION> https://github.com/nolanbarry/minecraft-fabric-mods.git .
+git clone --branch <VERSION> https://github.com/nolanbarry/minecraft-client-mods .
 ```
 > If the `git` command doesn't exist, install `git` [here](https://git-scm.com/download/win).
 
