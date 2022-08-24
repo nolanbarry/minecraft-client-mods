@@ -1,7 +1,7 @@
 # Minecraft Fabric Mods
 My collection of client-side fabric mods, collected in this repository for easy access.
 
-## Installing on Windows
+## Installing
 1. Run Minecraft with the version you want to install fabric for at least once. Minecraft installs a new version when that version is launched for the first time
 2. Download and run the [fabric loader](https://fabricmc.net/use/installer/)
 3. Open the .minecraft folder (see below for more instructions).
