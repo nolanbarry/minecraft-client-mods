@@ -47,6 +47,7 @@ cd ~/Library/Application Support/minecraft/mods
 [Cloth Config API](https://modrinth.com/mod/cloth-config)  
 [Continuity](https://modrinth.com/mod/continuity)  
 [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)  
+[Essentials](https://essential.gg/download)
 [Easier Villager Trading](https://modrinth.com/mod/easiervillagertrading)  
 [Enhanced Block Entities](https://modrinth.com/mod/ebe)  
 [Entity Culling](https://modrinth.com/mod/entityculling)  
